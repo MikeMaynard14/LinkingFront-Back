@@ -43,8 +43,6 @@
     </div>
     <div class="data-container">
         <h3> Show All Users</h3>
-       
-        <?php include 'scripts/readAll.php' ?>
     </div>
     
 </body>
